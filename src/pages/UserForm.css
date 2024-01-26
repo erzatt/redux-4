@@ -1,0 +1,54 @@
+.background {
+  background: #1D1D1F; /* Change to your preferred background color */
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: #1D1D1F; /* Change to your preferred background color */
+  padding: 100px 200px;
+}
+
+p {
+  color: #898889;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.info {
+  color: #898889;
+  text-align: center;
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -1.76px;
+  width: 100%;
+  padding: 0 30px 0 30px;
+}
+
+.under-info {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin-top: -30px;
+}
+
+.registerNow {
+  color: #fff; /* Change to your preferred text color */
+}
+
+.formBtn {
+  background: linear-gradient(90deg, #5e5e5e 0%, #ff7070 101.62%); /* Change to your preferred gradient */
+}
+
+.background_light {
+  border-radius: 4px;
+}
